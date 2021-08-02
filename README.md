@@ -2,9 +2,11 @@
 
 John-Denver
 
-denverbogonko78@Gmail.com 
+denverogamba@gmail.com 
 
 - 🔭 I’m currently working on Data science 
-- 🌱 I’m currently learning IT
+- 🌱 IT Expert
+- Mobile Web Specialist
+- Full Stack Web Developer/Python Programmer/Android Developer
 
 -->
