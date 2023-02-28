@@ -1,12 +1,6 @@
-### Hi there 👋
+Hey, nice to see you 👋.
 
-John-Denver
+Hello, I'm Denver Ogamba, a Web Developer, Python Programmer, Android Developer and Graphic Designer 👨🏻‍💻 from Kenya. I'm a Results-oriented full stack developer with 3+ years experience developing, testing, and maintaining enterprise applications. Designed and developed applications for various use cases and functional requirements for clients ranging from individuals and small businesses all the way to large enterprise corporations.
 
 denverogamba@gmail.com 
-
-- 🔭 I’m currently working on Mobile Web Specialist
-- 🌱 IT Expert
-- Mobile Web Specialist
-- Full Stack Web Developer/Python Programmer/Android Developer
-
--->
+Tel: +254 7125 123 58
